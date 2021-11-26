@@ -4,9 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SbtAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/SbtAssignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SbtAssignment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SbtAssignment-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SbtAssignment.http.iml" filepath="$PROJECT_DIR$/.idea/modules/SbtAssignment.http.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project/http.iml" filepath="$PROJECT_DIR$/project/http.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistence.iml" filepath="$PROJECT_DIR$/.idea/modules/persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/persistence.iml" filepath="$PROJECT_DIR$/persistence/persistence.iml" />
     </modules>
   </component>
 </project>
